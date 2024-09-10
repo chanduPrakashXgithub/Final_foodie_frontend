@@ -1,0 +1,11 @@
+installation :
+npm create vite@latest
+
+
+ components:
+ vendor dashboard =
+    navbar;
+    sidebar;
+    all products;
+   forms;
+       vendor register, vendor login , add firm , add products, all products ,
